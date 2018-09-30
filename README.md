@@ -23,4 +23,4 @@ http://www.l.u-tokyo.ac.jp/2015SSM-PJ/
 
 I used sav file as raw data and converted it to dta format.
 
-I thank Tokio Yasuda for using his syntax to creat person years data.
+I thank Ryota Mugiyama for sharing his syntax for occulational classification and Tokio Yasuda for using his syntax to creat person years data.
