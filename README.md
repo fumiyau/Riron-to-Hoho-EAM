@@ -17,7 +17,7 @@ Output files are included in the Results folder.
 
 Link to the article is here: https://www.jstage.jst.go.jp/article/ojjams/33/1/33_15/_pdf/-char/ja
 
-This study used Social Stratification and Mobility study 2015 (SSM2015, verstion 050). Detailed information for this data is available here.
+This study used Social Stratification and Mobility study 2015 (SSM2015, verstion 050). Detailed information for this data is available at the website below.
 
 http://www.l.u-tokyo.ac.jp/2015SSM-PJ/
 
